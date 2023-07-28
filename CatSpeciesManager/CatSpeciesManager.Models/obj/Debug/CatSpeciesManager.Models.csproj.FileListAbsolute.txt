@@ -1,0 +1,6 @@
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\bin\Debug\CatSpeciesManager.Models.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\bin\Debug\CatSpeciesManager.Models.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\obj\Debug\CatSpeciesManager.Models.csproj.AssemblyReference.cache
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\obj\Debug\CatSpeciesManager.Models.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\obj\Debug\CatSpeciesManager.Models.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager.Models\obj\Debug\CatSpeciesManager.Models.pdb

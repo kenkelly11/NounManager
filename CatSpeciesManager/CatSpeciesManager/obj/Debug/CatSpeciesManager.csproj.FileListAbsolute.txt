@@ -1,0 +1,16 @@
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.exe.config
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.exe
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\obj\Debug\CatSpeciesManager.csproj.AssemblyReference.cache
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\obj\Debug\CatSpeciesManager.csproj.CoreCompileInputs.cache
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\obj\Debug\CatSpeciesManager.exe
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\obj\Debug\CatSpeciesManager.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Controllers.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.View.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Data.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Models.dll
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Controllers.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.View.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Data.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\bin\Debug\CatSpeciesManager.Models.pdb
+C:\Users\kenda\source\repos\CatSpeciesManager\CatSpeciesManager\obj\Debug\CatSpeciesManager.csproj.CopyComplete
